@@ -90,7 +90,9 @@
   .react-cookienotice-wrapper {
     max-width: 250px;
   }
-
+.react-cookienotice-read-more-button {
+  white-space:pre-wrap;
+  }
   .react-cookienotice-text {
     font-size: 0.7em;
   }
